@@ -11,17 +11,17 @@ public class InvoiceDaoNio implements InvoiceDao {
 
 	@Override
 	public Invoice create(Invoice entity) {
-
+		return null;
 	}
 
 	@Override
 	public Invoice update(Invoice entity) {
-
+		return null;
 	}
 
 	@Override
 	public Invoice delete(Invoice entity) {
-
+		return null;
 	}
 
 	@Override

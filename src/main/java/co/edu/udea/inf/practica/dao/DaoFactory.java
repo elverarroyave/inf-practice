@@ -13,7 +13,7 @@ public abstract class DaoFactory {
 		DaoFactory.factory = factory;
 	}
 
-	public abstract ComponentDao getComponenteDao();
+	public abstract ComponentDao getComponentDao();
 
 	public abstract ComputerDao getComputerDao();
 

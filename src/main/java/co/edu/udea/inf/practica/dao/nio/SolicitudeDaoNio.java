@@ -10,21 +10,18 @@ import co.edu.udea.inf.practica.domain.Solicitude;
 public class SolicitudeDaoNio implements SolicitudeDao {
 
 	@Override
-	public void create(Solicitude entity) {
-
-
+	public Solicitude create(Solicitude entity) {
+		return null;
 	}
 
 	@Override
-	public void update(Solicitude entity) {
-
-
+	public Solicitude update(Solicitude entity) {
+		return null;
 	}
 
 	@Override
-	public void delete(Integer id) {
-
-
+	public Solicitude delete(Solicitude entity) {
+		return null;
 	}
 
 	@Override

@@ -11,17 +11,17 @@ public class ComputerDaoNio implements ComputerDao {
 
 	@Override
 	public Computer create(Computer entity) {
-
+		return null;
 	}
 
 	@Override
 	public Computer update(Computer entity) {
-
+		return null;
 	}
 
 	@Override
-	public Computer delete(Integer id) {
-
+	public Computer delete(Computer entity) {
+		return null;
 	}
 
 	@Override

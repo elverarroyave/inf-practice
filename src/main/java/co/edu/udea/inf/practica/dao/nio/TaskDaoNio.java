@@ -11,17 +11,17 @@ public class TaskDaoNio implements TaskDao {
 
 	@Override
 	public Task create(Task entity) {
-
+		return null;
 	}
 
 	@Override
-	public Task(Task entity) {
-
+	public Task update(Task entity) {
+		return null;
 	}
 
 	@Override
 	public Task delete(Task entity) {
-
+		return null;
 	}
 
 	@Override
