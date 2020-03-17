@@ -10,18 +10,18 @@ import co.edu.udea.inf.practica.domain.User;
 public class UserDaoNio implements UserDao {
 
 	@Override
-	public void create(User entity) {
-
+	public User create(User entity) {
+		return null;
 	}
 
 	@Override
-	public void update(User entity) {
-
+	public User update(User entity) {
+		return null;
 	}
 
 	@Override
-	public void delete(User entity) {
-
+	public User delete(User entity) {
+		return null;
 	}
 
 	@Override

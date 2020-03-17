@@ -11,17 +11,17 @@ public class ComponentDaoNio implements ComponentDao {
 
 	@Override
 	public Component create(Component entity) {
-
+		return null;
 	}
 
 	@Override
 	public Component update(Component entity) {
-
+		return null;
 	}
 
 	@Override
 	public Component delete(Component entity) {
-
+		return null;
 	}
 
 	@Override
